@@ -2,12 +2,11 @@
 
 In this repository, I list the open data portals in Turkey including both govermental and private instutes. 
 
-
-
 ## Central Government Institutions
 
 + [Turkish National Statistics Institute (TUIK)](https://www.tuik.gov.tr/)
 + [Turkish Republic Central Bank (TCMB)] (https://evds2.tcmb.gov.tr/)
++ [YOK Atlas](https://yokatlas.yok.gov.tr/index.php)
 
 
 ## Municipalities 
@@ -22,4 +21,3 @@ In this repository, I list the open data portals in Turkey including both goverm
 + [Küçükçekmece Municipality Open Data Portal](https://acikveri.kucukcekmece.bel.tr/)
 + [Beyoğlu Municipality Open Data Portal](https://acikveri.beyoglu.bel.tr/)
 + [Tuzla Municipality Open Data Portal](https://veri.tuzla.bel.tr/)
-
