@@ -11,12 +11,12 @@ In this repository, I list the open data portals in Turkey including both goverm
 + [YOK Atlas](https://yokatlas.yok.gov.tr/index.php)
     - [YOK Thesis Archive](https://tez.yok.gov.tr/UlusalTezMerkezi/)
  
-+ [The Scientific and Technological Research Council of Turkey(TUBITAK)]
++ **The Scientific and Technological Research Council of Turkey(TUBITAK)**
     -[University Data Portal (ULAKBIM/TUBITAK)](https://veri.ulakbim.gov.tr/index)
     -[APERTA](https://aperta.ulakbim.gov.tr/)
-    - [HARMAN](https://harman.ulakbim.gov.tr/index)
+    -[HARMAN](https://harman.ulakbim.gov.tr/index)
 
-+ [Turkey Republic Ministries]
++ **Turkey Republic Ministries**
     +  [Turkey Republic Ministry of Health](https://sbsgm.saglik.gov.tr/TR-93554/istatistikler.html)
     + [Turkey Republic Ministry of Health Open Data (Pilot)](https://sbsgm.saglik.gov.tr/TR-40297/acik-veri-portali--pilot-calisma.html)
     + [Turkey Republic Ministry of Treasury and Finance](https://www.hmb.gov.tr/kamu-finansmani-istatistikleri)
@@ -45,10 +45,10 @@ In this repository, I list the open data portals in Turkey including both goverm
          + [Küçükçekmece Municipality Open Data Portal](https://acikveri.kucukcekmece.bel.tr/)
          + [Beyoğlu Municipality Open Data Portal](https://acikveri.beyoglu.bel.tr/)
          + [Tuzla Municipality Open Data Portal](https://veri.tuzla.bel.tr/)
+    + [Balıkesir Metropolitan Municipality Open Data Portal](https://acikveri.balikesir.bel.tr/)
+    + [Bursa Metropolitan Municipality Open Data Portal](https://acikyesil.bursa.bel.tr/)
 + [Ankara Metropolitan Municipality Open Data Portal](https://seffaf.ankara.bel.tr/)
 + [Izmir Metropolitan Municipality Open Data Portal](https://acikveri.bizizmir.com/)
-+ [Balıkesir Metropolitan Municipality Open Data Portal](https://acikveri.balikesir.bel.tr/)
-+ [Bursa Metropolitan Municipality Open Data Portal](https://acikyesil.bursa.bel.tr/)
 + [Konya Metropolitan Municipality Open Data Portal](https://acikveri.konya.bel.tr/)
 + [Gaziantep Metropolitan Municipality Open Data Portal](https://acikveri.gaziantep.bel.tr/)
 + [Ordu Metropolitan Municipality Geodata Portal](https://portal.ordu.bel.tr/ordubuyuksehirbelediyesi/maps)
