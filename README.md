@@ -77,6 +77,7 @@ Listenin İngilizce halini aşağıda bulabilirsiniz. The English version of the
 - [Avrupa Birliği İstatistik Ofisi (Eurostat)](https://ec.europa.eu/eurostat/web/main/data/database)
 - [OECD-Türkiye](https://data.oecd.org/turkiye.htm)
 - [IMF](https://data.imf.org/?sk=388dfa60-1d26-4ade-b505-a05a558d9a42)
+- [Uluslararası İşçi Örgütü (ILO)](https://ilostat.ilo.org/)
 
 Bu listeye eklemek istediğiniz kaynakları [ozancan@metu.edu.tr](mailto::ozancan@metu.edu.tr) adresine gönderebilirsiniz.
 
@@ -159,6 +160,7 @@ In this repository, I list the open data portals in Turkey including both goverm
 - [European Union Statistical Office (Eurostat)](https://ec.europa.eu/eurostat/web/main/data/database)
 - [OECD-Turkey](https://data.oecd.org/turkiye.htm)
 - [IMF](https://data.imf.org/?sk=388dfa60-1d26-4ade-b505-a05a558d9a42)
+- [International Labour Organization (ILO)](https://ilostat.ilo.org/)
 
 You can send the sources that you want to add to this list to [ozancan@metu.edu.tr](mailto::ozancan@metu.edu.tr)
 
