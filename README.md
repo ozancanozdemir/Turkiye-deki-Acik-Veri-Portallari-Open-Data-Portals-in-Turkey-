@@ -12,9 +12,9 @@ In this repository, I list the open data portals in Turkey including both goverm
     - [YOK Thesis Archive](https://tez.yok.gov.tr/UlusalTezMerkezi/)
  
 + **The Scientific and Technological Research Council of Turkey(TUBITAK)**
-    -[University Data Portal (ULAKBIM/TUBITAK)](https://veri.ulakbim.gov.tr/index)
-    -[APERTA](https://aperta.ulakbim.gov.tr/)
-    -[HARMAN](https://harman.ulakbim.gov.tr/index)
+    + [University Data Portal (ULAKBIM/TUBITAK)](https://veri.ulakbim.gov.tr/index)
+    + [APERTA](https://aperta.ulakbim.gov.tr/)
+    + [HARMAN](https://harman.ulakbim.gov.tr/index)
 
 + **Turkey Republic Ministries**
     +  [Turkey Republic Ministry of Health](https://sbsgm.saglik.gov.tr/TR-93554/istatistikler.html)
