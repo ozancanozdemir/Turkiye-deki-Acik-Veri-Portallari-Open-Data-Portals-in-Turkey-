@@ -26,11 +26,12 @@ Listenin İngilizce halini aşağıda bulabilirsiniz. The English version of the
      + [Türkiye Cumhuriyeti Tarım ve Orman Bakanlığı](https://rip.tarimorman.gov.tr/Sayfa/Detay/650)
      + [Türkiye Cumhuriyeti Adalet Bakanlığı](https://adlisicil.adalet.gov.tr/Home/SayfaDetay/adl-istatistikler-yayin-arsivi)
      + [Türkiye Cumhuriyeti İçişleri Bakanlığı Sivil Toplumla İlişkiler Genel Müdürlüğü](https://www.siviltoplum.gov.tr/dernekler-bilgi-sistemi-derbis)
-     + [Türkiye Bankalar Birliği](https://verisistemi.tbb.org.tr/)
-     + [Borsa İstanbul](https://datastore.borsaistanbul.com/)
-     + [Cumhurbaşkanlığı İnsan Kaynakları Ofisi (UniVeri)](https://www.cbiko.gov.tr/projeler/uni-veri?process=sectionProfile&sectionProfile=38&variables=2)
      + [Türkiye Cumhuriyeti İçişleri Bakanlığı Göç İdaresi Başkanlığı](https://www.goc.gov.tr/giris-cikis)
-  
+
+     
++ [Türkiye Bankalar Birliği](https://verisistemi.tbb.org.tr/)
++ [Borsa İstanbul](https://datastore.borsaistanbul.com/)
++ [Cumhurbaşkanlığı İnsan Kaynakları Ofisi (UniVeri)](https://www.cbiko.gov.tr/projeler/uni-veri?process=sectionProfile&sectionProfile=38&variables=2)  
 + [Yüksek Seçim Kurulu (YSK) Açık Veri Portalı](https://acikveri.ysk.gov.tr/anasayfa)
 + [Meteoroloji Genel Müdürlüğü](https://mgm.gov.tr/veridegerlendirme/il-ve-ilceler-istatistik.aspx)
 + [Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı](https://www.sbb.gov.tr/temel-ekonomik-gostergeler/)
@@ -108,12 +109,11 @@ In this repository, I list the open data portals in Turkey including both goverm
     + [Turkey Republic Ministry of Agriculture and Foresty](https://rip.tarimorman.gov.tr/Sayfa/Detay/650)
     + [Turkey Republic Ministry of Justice](https://adlisicil.adalet.gov.tr/Home/SayfaDetay/adl-istatistikler-yayin-arsivi)
     + [Turkey Republic Ministry of Interior, General Directorate of Civil Society Relations](https://www.siviltoplum.gov.tr/dernekler-bilgi-sistemi-derbis)
-    + [The Bank Association of Turkey](https://verisistemi.tbb.org.tr/)
-    + [Borsa Istanbul](https://datastore.borsaistanbul.com/)
-    + [Presidency of the Republic of Turkey, Human Resource Office (UniVeri)](https://www.cbiko.gov.tr/projeler/uni-veri?process=sectionProfile&sectionProfile=38&variables=2)
     + [Turkey Republic Ministry of Interior, Presidency of Migration Management](https://www.goc.gov.tr/giris-cikis)
 
-
++ [The Bank Association of Turkey](https://verisistemi.tbb.org.tr/)
++ [Borsa Istanbul](https://datastore.borsaistanbul.com/)
++ [Presidency of the Republic of Turkey, Human Resource Office (UniVeri)](https://www.cbiko.gov.tr/projeler/uni-veri?process=sectionProfile&sectionProfile=38&variables=2)
 + [Supreme Election Council (YSK)](https://acikveri.ysk.gov.tr/anasayfa) 
 + [Turkish State Meteorological Service](https://mgm.gov.tr/veridegerlendirme/il-ve-ilceler-istatistik.aspx)
 + [Presidency of the Republic of Turkey Strategy and Budget Presidency](https://www.sbb.gov.tr/temel-ekonomik-gostergeler/)
