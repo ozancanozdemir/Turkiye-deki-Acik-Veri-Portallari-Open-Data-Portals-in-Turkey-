@@ -36,7 +36,10 @@ In this repository, I list the open data portals in Turkey including both goverm
 + [Capital Markets of Boards of Turkey](https://spk.gov.tr/istatistikler/istatistiksel-veriler)
 + [National Library, Turkey Articles Bibliography](https://makaleler.mkutup.gov.tr/Default.aspx)
 
-
++ **Universities**
+    +[Fırat University, Big Data and Artificial Intelligence Lab](http://buyukveri.firat.edu.tr/veri-setleri/)
+    +[ITU Turkish Natural Language Processing Software Chain](http://tools.nlp.itu.edu.tr/Datasets)
+    +[YTU Bone Natural Language Processing Group](http://www.kemik.yildiz.edu.tr/veri_kumelenen.html)
 
 ## Municipalities 
 
@@ -56,10 +59,11 @@ In this repository, I list the open data portals in Turkey including both goverm
 ## Private 
 
 + [Veri Kaynağı](https://www.verikaynagi.com/)
++ [TURCOVID-19](https://turcovid19.com/acikveri/)
 + [Turkish Language Repository](https://tdd.ai/?language=tr)
-+ [ITU Turkish Natural Language Processing Software Chain](http://tools.nlp.itu.edu.tr/Datasets)
 + [Bilkent Turkish Writings Dataset](https://github.com/selimfirat/bilkent-turkish-writings-dataset)
-+ [YTU Bone Natural Language Processing Group](http://www.kemik.yildiz.edu.tr/veri_kumelenen.html)
-
++ [The Union of Chambers and Commodity Exchanges of Turkey](https://tobb.org.tr/FuarlarMudurlugu/Sayfalar/Istatistikler.php)
++ [Istanbul Chambers of Commerce](https://bilgibankasi.ito.org.tr/en/icoc-statistical-data/general)
++ [Gender Equality Monitoring Association Data Portal](https://veriportali.ceid.org.tr)
 You can send the sources that you want to add to this list to [ozancan@metu.edu.tr](mailto::ozancan@metu.edu.tr)
 
