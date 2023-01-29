@@ -9,7 +9,7 @@ Listenin İngilizce halini aşağıda bulabilirsiniz. The English version of the
 + [Resmi İstatistik Portalı](https://www.resmiistatistik.gov.tr/)
 + [Türkiye Ulusal İstatistik Kurumu (TÜİK)](https://www.tuik.gov.tr/)
 + [Türkiye Cumhuriyet Merkez Bankası (TCMB)](https://evds2.tcmb.gov.tr/)
-+
+
 + [YÖK Atlas](https://yokatlas.yok.gov.tr/index.php)
      - [YÖK Tez Arşivi](https://tez.yok.gov.tr/UlusalTezMerkezi/)
  
