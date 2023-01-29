@@ -1,4 +1,4 @@
-# Açık Veri Portalları
+# Türkiye'deki Açık Veri Portalları
 
 Bu arşivde, hem devlet hem de özel kurumlar dahil olmak üzere Türkiye'deki açık veri portallarını listeliyorum.
 
@@ -83,7 +83,7 @@ Listenin İngilizce halini aşağıda bulabilirsiniz. The English version of the
 Bu listeye eklemek istediğiniz kaynakları [ozancan@metu.edu.tr](mailto::ozancan@metu.edu.tr) adresine gönderebilirsiniz.
 
 *********************************
-# Open Data Portals
+# Open Data Portals in Turkey
 
 In this repository, I list the open data portals in Turkey including both govermental and private instutes. 
 
