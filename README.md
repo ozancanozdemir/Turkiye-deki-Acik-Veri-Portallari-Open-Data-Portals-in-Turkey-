@@ -2,14 +2,16 @@
 
 Bu arşivde, hem devlet hem de özel kurumlar dahil olmak üzere Türkiye'deki açık veri portallarını listeliyorum.
 
+Listenin İngilizce halini aşağıda bulabilirsiniz. The English version of the list is below.
+
 ## Merkezi Hükümet Kurumları
 
 + [Resmi İstatistik Portalı](https://www.resmiistatistik.gov.tr/)
 + [Türkiye Ulusal İstatistik Kurumu (TÜİK)](https://www.tuik.gov.tr/)
 + [Türkiye Cumhuriyet Merkez Bankası (TCMB)](https://evds2.tcmb.gov.tr/)
-
-+ [YOK Atlası](https://yokatlas.yok.gov.tr/index.php)
-     - [YOK Tez Arşivi](https://tez.yok.gov.tr/UlusalTezMerkezi/)
++
++ [YÖK Atlas](https://yokatlas.yok.gov.tr/index.php)
+     - [YÖK Tez Arşivi](https://tez.yok.gov.tr/UlusalTezMerkezi/)
  
 + **Türkiye Bilimsel ve Teknolojik Araştırma Kurumu(TÜBİTAK)**
      + [Üniversite Veri Portalı (ULAKBİM/TÜBİTAK)](https://veri.ulakbim.gov.tr/index)
@@ -28,10 +30,12 @@ Bu arşivde, hem devlet hem de özel kurumlar dahil olmak üzere Türkiye'deki a
      + [Borsa İstanbul](https://datastore.borsaistanbul.com/)
      + [Cumhurbaşkanlığı İnsan Kaynakları Ofisi (UniVeri)](https://www.cbiko.gov.tr/projeler/uni-veri?process=sectionProfile&sectionProfile=38&variables=2)
      + [Türkiye Cumhuriyeti İçişleri Bakanlığı Göç İdaresi Başkanlığı](https://www.goc.gov.tr/giris-cikis)
-+ [YSK](https://acikveri.ysk.gov.tr/anasayfa)
-+ [Devlet Meteoroloji İşleri](https://mgm.gov.tr/veridegerlendirme/il-ve-ilceler-istatistik.aspx)
+  
++ [Yüksek Seçim Kurulu (YSK) Açık Veri Portalı](https://acikveri.ysk.gov.tr/anasayfa)
++ [Meteoroloji Genel Müdürlüğü](https://mgm.gov.tr/veridegerlendirme/il-ve-ilceler-istatistik.aspx)
 + [Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı](https://www.sbb.gov.tr/temel-ekonomik-gostergeler/)
 + [Türkiye Sigortalar Birliği](https://www.tsb.org.tr/tr/sigorta-verileri-ve-mali-tablolar)
++ [Bankacılık Düzenleme ve Denetleme Kurumu](https://www.bddk.org.tr/Veri/Index/69)
 + [Türkiye Ulusal Coğrafi Bilgi Portalı](https://atlas.gov.tr/)
       - [Türkiye Ulusal Coğrafi Açık Veri Portalı](https://tucbskontrol.csb.gov.tr/TUCBSAcikVeri?)
 + [Sermaye Piyasası Kurumu](https://spk.gov.tr/istatistikler/istatistiksel-veriler)
@@ -107,10 +111,13 @@ In this repository, I list the open data portals in Turkey including both goverm
     + [Borsa Istanbul](https://datastore.borsaistanbul.com/)
     + [Presidency of the Republic of Turkey, Human Resource Office (UniVeri)](https://www.cbiko.gov.tr/projeler/uni-veri?process=sectionProfile&sectionProfile=38&variables=2)
     + [Turkey Republic Ministry of Interior, Presidency of Migration Management](https://www.goc.gov.tr/giris-cikis)
+
+
 + [Supreme Election Council (YSK)](https://acikveri.ysk.gov.tr/anasayfa) 
 + [Turkish State Meteorological Service](https://mgm.gov.tr/veridegerlendirme/il-ve-ilceler-istatistik.aspx)
 + [Presidency of the Republic of Turkey Strategy and Budget Presidency](https://www.sbb.gov.tr/temel-ekonomik-gostergeler/)
 + [Insurance Association of Turkey](https://www.tsb.org.tr/tr/sigorta-verileri-ve-mali-tablolar)
++ [Banking Regulation and Supervision Agency](https://www.bddk.org.tr/Veri/Index/69)
 + [Turkey National Geographic Information Portal](https://atlas.gov.tr/)
      - [Turkey National Geographic Open Data Portal](https://tucbskontrol.csb.gov.tr/TUCBSAcikVeri?)
 + [Capital Markets of Boards of Turkey](https://spk.gov.tr/istatistikler/istatistiksel-veriler)
