@@ -1,6 +1,6 @@
 # Türkiye'deki Açık Veri Portalları
 
-Bu arşivde, hem devlet hem de özel kurumlar dahil olmak üzere Türkiye'deki açık veri portallarını listeliyorum.
+Bu arşivde, hem devlet hem özel kurumlar hem de uluslararası kurumlar dahil olmak üzere Türkiye'deki ve Türkiye ile ilgili açık veri portallarını listeliyorum.
 
 Listenin İngilizce halini aşağıda bulabilirsiniz. The English version of the list is below.
 
@@ -80,13 +80,14 @@ Listenin İngilizce halini aşağıda bulabilirsiniz. The English version of the
 - [OECD-Türkiye](https://data.oecd.org/turkiye.htm)
 - [IMF](https://data.imf.org/?sk=388dfa60-1d26-4ade-b505-a05a558d9a42)
 - [Uluslararası İşçi Örgütü (ILO)](https://ilostat.ilo.org/)
+- [B40 Açık Veri Portalı](https://opendata.b40cities.org/)
 
 Bu listeye eklemek istediğiniz kaynakları [ozancan@metu.edu.tr](mailto::ozancan@metu.edu.tr) adresine gönderebilirsiniz.
 
 *********************************
 # Open Data Portals in Turkey
 
-In this repository, I list the open data portals in Turkey including both govermental and private instutes. 
+In this repository, I list the open data portals in Turkey including both govermental, private and international instutes. 
 
 ## Central Government Institutions
 
@@ -163,6 +164,7 @@ In this repository, I list the open data portals in Turkey including both goverm
 - [OECD-Turkey](https://data.oecd.org/turkiye.htm)
 - [IMF](https://data.imf.org/?sk=388dfa60-1d26-4ade-b505-a05a558d9a42)
 - [International Labour Organization (ILO)](https://ilostat.ilo.org/)
+- [B40 Open Data Portal](https://opendata.b40cities.org/)
 
 You can send the sources that you want to add to this list to [ozancan@metu.edu.tr](mailto::ozancan@metu.edu.tr)
 
