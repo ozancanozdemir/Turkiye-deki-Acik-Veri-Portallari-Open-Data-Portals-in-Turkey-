@@ -56,13 +56,21 @@ Listenin İngilizce halini aşağıda bulabilirsiniz. The English version of the
           + [Beyoğlu Belediyesi Açık Veri Portalı](https://acikveri.beyoglu.bel.tr/)
           + [Tuzla Belediyesi Açık Veri Portalı](https://veri.tuzla.bel.tr/)
           + [Eyüp Sultan Belediyesi Açık Veri Portalı](https://acikveri.eyupsultan.bel.tr/)
+          + [Kadıköy Belediyesi Açık Veri Portalı](https://acikveri.kadikoy.bel.tr/)
      + [Balıkesir Büyükşehir Belediyesi Açık Veri Portalı](https://acikveri.balikesir.bel.tr/)
      + [Bursa Büyükşehir Belediyesi Açık Veri Portalı](https://acikyesil.bursa.bel.tr/)
 + [Ankara Büyükşehir Belediyesi Açık Veri Portalı](https://seffaf.ankara.bel.tr/)
++ [Antalya Büyükşehir Belediyesi Açık Veri Portalı](https://acikveri.antalya.bel.tr/)
 + [İzmir Büyükşehir Belediyesi Açık Veri Portalı](https://acikveri.bizizmir.com/)
++ [Kocaeli Büyükşehir Belediyesi Açık Veri Portalı](https://veri.kocaeli.bel.tr/)
 + [Konya Büyükşehir Belediyesi Açık Veri Portalı](https://acikveri.konya.bel.tr/)
++ [Kayseri Büyükşehir Belediyesi Açık Veri Portalı](https://acikveri.kayseri.bel.tr/)
 + [Gaziantep Büyükşehir Belediyesi Açık Veri Portalı](https://acikveri.gaziantep.bel.tr/)
++ [Sakarya Büyükşehir Belediyesi Açık Veri Portalı](https://acikveri.sakarya.bel.tr/)
 + [Ordu Büyükşehir Belediyesi Coğrafi Veri Portalı](https://portal.ordu.bel.tr/ordubuyuksehirbelediyesi/maps)
+
+
+
 
 ## Özel Kurumlar
 
