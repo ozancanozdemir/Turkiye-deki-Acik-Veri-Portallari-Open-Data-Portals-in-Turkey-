@@ -9,6 +9,7 @@ Listenin İngilizce halini aşağıda bulabilirsiniz. The English version of the
 + [Resmi İstatistik Portalı](https://www.resmiistatistik.gov.tr/)
 + [Türkiye Ulusal İstatistik Kurumu (TÜİK)](https://www.tuik.gov.tr/)
 + [Türkiye Cumhuriyet Merkez Bankası (TCMB)](https://evds2.tcmb.gov.tr/)
++ [Türkiye Cumhuriyeti Sağlık Bakanlığı Açık Veri Portalı](https://acikveri.saglik.gov.tr/)
 
 + [YÖK Atlas](https://yokatlas.yok.gov.tr/index.php)
      - [YÖK Tez Arşivi](https://tez.yok.gov.tr/UlusalTezMerkezi/)
@@ -21,7 +22,7 @@ Listenin İngilizce halini aşağıda bulabilirsiniz. The English version of the
 
 + **Türkiye Cumhuriyeti Bakanlıkları**
      + [Türkiye Cumhuriyeti Sağlık Bakanlığı](https://sbsgm.saglik.gov.tr/TR-93554/istatistikler.html)
-     + [Türkiye Cumhuriyeti Sağlık Bakanlığı Açık Veri (Pilot)](https://sbsgm.saglik.gov.tr/TR-40297/acik-veri-portali--pilot-calisma.html)
+     + [Türkiye Cumhuriyeti Sağlık Bakanlığı Açık Veri](https://acikveri.saglik.gov.tr/)
      + [Türkiye Cumhuriyeti Hazine ve Maliye Bakanlığı](https://www.hmb.gov.tr/kamu-finansmani-istatistikleri)
      + [Türkiye Cumhuriyeti Tarım ve Orman Bakanlığı](https://rip.tarimorman.gov.tr/Sayfa/Detay/650)
      + [Türkiye Cumhuriyeti Adalet Bakanlığı](https://adlisicil.adalet.gov.tr/Home/SayfaDetay/adl-istatistikler-yayin-arsivi)
@@ -104,6 +105,7 @@ In this repository, I list the open data portals in Turkey including both goverm
 + [Turkish National Statistics Institute (TUIK)](https://www.tuik.gov.tr/)
 + [Turkish Republic Central Bank (TCMB)](https://evds2.tcmb.gov.tr/)
 
+
 + [YOK Atlas](https://yokatlas.yok.gov.tr/index.php)
     - [YOK Thesis Archive](https://tez.yok.gov.tr/UlusalTezMerkezi/)
  
@@ -114,8 +116,8 @@ In this repository, I list the open data portals in Turkey including both goverm
     + [TRUBA](https://docs.truba.gov.tr/TRUBA/kullanici-el-kitabi/verisetleri.html)
 
 + **Turkey Republic Ministries**
-    +  [Turkey Republic Ministry of Health](https://sbsgm.saglik.gov.tr/TR-93554/istatistikler.html)
-    + [Turkey Republic Ministry of Health Open Data (Pilot)](https://sbsgm.saglik.gov.tr/TR-40297/acik-veri-portali--pilot-calisma.html)
+    + [Turkey Republic Ministry of Health](https://sbsgm.saglik.gov.tr/TR-93554/istatistikler.html)
+    + [Turkey Republic Ministry of Health Open Data (Pilot)](https://acikveri.saglik.gov.tr/)
     + [Turkey Republic Ministry of Treasury and Finance](https://www.hmb.gov.tr/kamu-finansmani-istatistikleri)
     + [Turkey Republic Ministry of Agriculture and Foresty](https://rip.tarimorman.gov.tr/Sayfa/Detay/650)
     + [Turkey Republic Ministry of Justice](https://adlisicil.adalet.gov.tr/Home/SayfaDetay/adl-istatistikler-yayin-arsivi)
