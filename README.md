@@ -1,10 +1,10 @@
-# Türkiye'deki Açık Veri Portalları
+# 🌐 Türkiye'deki Açık Veri Portalları 
 
 Bu arşivde, hem devlet hem özel kurumlar hem de uluslararası kurumlar dahil olmak üzere Türkiye'deki ve Türkiye ile ilgili açık veri portallarını listeliyorum.
 
 Listenin İngilizce halini aşağıda bulabilirsiniz. The English version of the list is below.
 
-## Merkezi Hükümet Kurumları
+## 🏛 Merkezi Hükümet Kurumları 
 
 + [Resmi İstatistik Portalı](https://www.resmiistatistik.gov.tr/)
 + [Türkiye Ulusal İstatistik Kurumu (TÜİK)](https://www.tuik.gov.tr/)
@@ -49,7 +49,7 @@ Listenin İngilizce halini aşağıda bulabilirsiniz. The English version of the
      + [İTÜ Türkçe Doğal Dil İşleme Yazılım Zinciri](http://tools.nlp.itu.edu.tr/Datasets)
      + [YTÜ Kemik Doğal Dil İşleme Grubu](http://www.kemik.yildiz.edu.tr/veri_kumelenen.html)
 
-## Yerel Yönetimler
+## 🏛 Yerel Yönetimler
 
 + [Marmara Belediyeler Birliği (MBB) Açık Veri Portalı](https://data.marmara.gov.tr/)
      + [İstanbul Büyükşehir Belediyesi Açık Veri Portalı](https://data.ibb.gov.tr/en/)
@@ -68,12 +68,13 @@ Listenin İngilizce halini aşağıda bulabilirsiniz. The English version of the
 + [Kayseri Büyükşehir Belediyesi Açık Veri Portalı](https://acikveri.kayseri.bel.tr/)
 + [Gaziantep Büyükşehir Belediyesi Açık Veri Portalı](https://acikveri.gaziantep.bel.tr/)
 + [Sakarya Büyükşehir Belediyesi Açık Veri Portalı](https://acikveri.sakarya.bel.tr/)
++ [Manisa Büyükşehir Belediyesi Açık Veri Portalı](http://acikveri.manisa.bel.tr/)
 + [Ordu Büyükşehir Belediyesi Coğrafi Veri Portalı](https://portal.ordu.bel.tr/ordubuyuksehirbelediyesi/maps)
 
 
 
 
-## Özel Kurumlar
+## 💼 Özel Kurumlar
 
 + [Veri Kaynağı](https://www.verikaynagi.com/)
 + [TURCOVID-19](https://turcovid19.com/acikveri/)
@@ -83,7 +84,7 @@ Listenin İngilizce halini aşağıda bulabilirsiniz. The English version of the
 + [İstanbul Ticaret Odası](https://bilgibankasi.ito.org.tr/en/icoc-statistical-data/general)
 + [Cinsiyet Eşitliği İzleme Derneği Veri Portalı](https://veriportali.ceid.org.tr)
 
-## Uluslararası Kaynaklar
+## 🌎 Uluslararası Kaynaklar
 
 - [Dünya Bankası - Türkiye](https://data.worldbank.org/country/TR?locale=tr)
 - [Avrupa Birliği İstatistik Ofisi (Eurostat)](https://ec.europa.eu/eurostat/web/main/data/database)
@@ -95,13 +96,13 @@ Listenin İngilizce halini aşağıda bulabilirsiniz. The English version of the
 Bu listeye eklemek istediğiniz kaynakları [ozancan@metu.edu.tr](mailto::ozancan@metu.edu.tr) adresine gönderebilirsiniz.
 
 *********************************
-# Open Data Portals in Turkey
+# 🌐 Open Data Portals in Turkey
 
 In this repository, I list the open data portals in Turkey including both govermental, private and international instutes. 
 
-## Central Government Institutions
+## 🏛 Central Government Institutions
 
-+ [The Offical Statistics Portal](https://www.resmiistatistik.gov.tr/)
++ [The Official Statistics Portal](https://www.resmiistatistik.gov.tr/)
 + [Turkish National Statistics Institute (TUIK)](https://www.tuik.gov.tr/)
 + [Turkish Republic Central Bank (TCMB)](https://evds2.tcmb.gov.tr/)
 
@@ -119,7 +120,7 @@ In this repository, I list the open data portals in Turkey including both goverm
     + [Turkey Republic Ministry of Health](https://sbsgm.saglik.gov.tr/TR-93554/istatistikler.html)
     + [Turkey Republic Ministry of Health Open Data (Pilot)](https://acikveri.saglik.gov.tr/)
     + [Turkey Republic Ministry of Treasury and Finance](https://www.hmb.gov.tr/kamu-finansmani-istatistikleri)
-    + [Turkey Republic Ministry of Agriculture and Foresty](https://rip.tarimorman.gov.tr/Sayfa/Detay/650)
+    + [Turkey Republic Ministry of Agriculture and Forestry](https://rip.tarimorman.gov.tr/Sayfa/Detay/650)
     + [Turkey Republic Ministry of Justice](https://adlisicil.adalet.gov.tr/Home/SayfaDetay/adl-istatistikler-yayin-arsivi)
     + [Turkey Republic Ministry of Interior, General Directorate of Civil Society Relations](https://www.siviltoplum.gov.tr/dernekler-bilgi-sistemi-derbis)
     + [Turkey Republic Ministry of Interior, Presidency of Migration Management](https://www.goc.gov.tr/giris-cikis)
@@ -143,9 +144,9 @@ In this repository, I list the open data portals in Turkey including both goverm
     + [ITU Turkish Natural Language Processing Software Chain](http://tools.nlp.itu.edu.tr/Datasets)
     + [YTU Bone Natural Language Processing Group](http://www.kemik.yildiz.edu.tr/veri_kumelenen.html)
 
-## Municipalities 
+## 🏛 Municipalities 
 
-+ [Marmara Municipalites Union (MBB) Open Data Portal](https://data.marmara.gov.tr/)
++ [Marmara Municipalities Union (MBB) Open Data Portal](https://data.marmara.gov.tr/)
     + [Istanbul Metropolitan Municipality Open Data Portal](https://data.ibb.gov.tr/en/)
          + [Küçükçekmece Municipality Open Data Portal](https://acikveri.kucukcekmece.bel.tr/)
          + [Beyoğlu Municipality Open Data Portal](https://acikveri.beyoglu.bel.tr/)
@@ -156,10 +157,13 @@ In this repository, I list the open data portals in Turkey including both goverm
 + [Ankara Metropolitan Municipality Open Data Portal](https://seffaf.ankara.bel.tr/)
 + [Izmir Metropolitan Municipality Open Data Portal](https://acikveri.bizizmir.com/)
 + [Konya Metropolitan Municipality Open Data Portal](https://acikveri.konya.bel.tr/)
++ [Kayseri Metropolitan Municipality Open Data Portal](https://acikveri.kayseri.bel.tr/)
 + [Gaziantep Metropolitan Municipality Open Data Portal](https://acikveri.gaziantep.bel.tr/)
++ [Sakarya Metropolitan Municipality Open Data Portal](https://acikveri.sakarya.bel.tr/)
++ [Manisa Metropolitan Municipality Open Data Portal](http://acikveri.manisa.bel.tr/)
 + [Ordu Metropolitan Municipality Geodata Portal](https://portal.ordu.bel.tr/ordubuyuksehirbelediyesi/maps)
 
-## Private 
+## 💼 Private 
 
 + [Veri Kaynağı](https://www.verikaynagi.com/)
 + [TURCOVID-19](https://turcovid19.com/acikveri/)
@@ -169,7 +173,7 @@ In this repository, I list the open data portals in Turkey including both goverm
 + [Istanbul Chambers of Commerce](https://bilgibankasi.ito.org.tr/en/icoc-statistical-data/general)
 + [Gender Equality Monitoring Association Data Portal](https://veriportali.ceid.org.tr)
 
-## International Sources 
+## 🌎 International Sources 
 
 - [World Bank - Turkey](https://data.worldbank.org/country/TR?locale=tr)
 - [European Union Statistical Office (Eurostat)](https://ec.europa.eu/eurostat/web/main/data/database)
