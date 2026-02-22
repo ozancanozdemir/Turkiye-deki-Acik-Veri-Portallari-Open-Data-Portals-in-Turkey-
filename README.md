@@ -4,11 +4,11 @@ description: "TR/EN katalog: Türkiye’deki ve Türkiye ile ilgili açık veri 
 last_updated: "2026-02-22"
 ---
 
-# 🇹🇷 Türkiye ve Türkiye ile İlgili Açık Veri Portalları
+# Türkiye ve Türkiye ile İlgili Açık Veri Portalları
 
 Bu sayfa; Türkiye’deki kamu kurumları, yerel yönetimler, özel kuruluşlar ve uluslararası kurumlara ait açık veri portallarını **takibi kolay** bir katalog halinde listeler.
 
-## 🧭 Etiket Efsanesi (Tags)
+## 🧭 Etiket Açıklamaları
 - **API**: Programatik erişim / servis
 - **Download**: Dosya indirilebilir veri (CSV/Excel vb.)
 - **Dashboard**: Görsel panel / arayüz ağırlıklı
