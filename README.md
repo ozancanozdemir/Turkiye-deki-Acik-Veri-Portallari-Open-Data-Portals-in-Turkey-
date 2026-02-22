@@ -43,6 +43,7 @@ Listenin İngilizce halini aşağıda bulabilirsiniz. The English version of the
       - [Türkiye Ulusal Coğrafi Açık Veri Portalı](https://tucbskontrol.csb.gov.tr/TUCBSAcikVeri?)
 + [Sermaye Piyasası Kurumu](https://spk.gov.tr/istatistikler/istatistiksel-veriler)
 + [Milli Kütüphane Türkiye Makale Bibliyografileri](https://makaler.mkutup.gov.tr/Default.aspx)
++ [Ulusal Akıllı Şehir Açık Veri Platformu (ULASAV)](https://ulasav.csb.gov.tr/)
 
 + **Üniversiteler**
      + [Fırat Üniversitesi, Büyük Veri ve Yapay Zeka Laboratuvarı](http://buyukveri.firat.edu.tr/veri-setleri/)
@@ -139,6 +140,7 @@ In this repository, I list the open data portals in Turkey including both goverm
      - [Turkey National Geographic Open Data Portal](https://tucbskontrol.csb.gov.tr/TUCBSAcikVeri?)
 + [Capital Markets of Boards of Turkey](https://spk.gov.tr/istatistikler/istatistiksel-veriler)
 + [National Library, Turkey Articles Bibliography](https://makaleler.mkutup.gov.tr/Default.aspx)
++ [National Smart City Open Data Platform](https://ulasav.csb.gov.tr/)
 
 + **Universities**
     + [Fırat University, Big Data and Artificial Intelligence Lab](http://buyukveri.firat.edu.tr/veri-setleri/)
