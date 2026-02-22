@@ -4,6 +4,8 @@ description: "TR/EN katalog: Türkiye’deki ve Türkiye ile ilgili açık veri 
 last_updated: "2026-02-22"
 ---
 
+[The English version is provided below.] 
+
 # Türkiye ve Türkiye ile İlgili Açık Veri Portalları
 
 Bu sayfa; Türkiye’deki kamu kurumları, yerel yönetimler, özel kuruluşlar ve uluslararası kurumlara ait açık veri portallarını **takibi kolay** bir katalog halinde listeler.
@@ -142,7 +144,7 @@ Bu listeye eklemek istediğiniz kaynakları aşağıdaki adreslere gönderebilir
 
 ---
 
-# 🇬🇧 Open Data Portals Related to Turkey
+# Open Data Portals in Turkey
 
 This page curates open data portals in Turkey and international sources related to Turkey, presented as a **maintenance-friendly catalog**.
 
