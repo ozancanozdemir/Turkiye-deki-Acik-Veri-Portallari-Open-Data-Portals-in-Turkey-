@@ -8,6 +8,8 @@ last_updated: "2026-02-22"
 
 # Türkiye ve Türkiye ile İlgili Açık Veri Portalları
 
+**Türkiye'nin en kapsamlı açık veri dizini.**
+
 Bu sayfa; Türkiye’deki kamu kurumları, yerel yönetimler, özel kuruluşlar ve uluslararası kurumlara ait açık veri portallarını **takibi kolay** bir katalog halinde listeler.
 
 ## 🧭 Etiket Açıklamaları
