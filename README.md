@@ -122,6 +122,7 @@ Bu sayfa; Türkiye’deki kamu kurumları, yerel yönetimler, özel kuruluşlar 
 - **TOBB İstatistikler** — https://tobb.org.tr/FuarlarMudurlugu/Sayfalar/Istatistikler.php · `Download`
 - **İTO İstatistiksel Veri** — https://bilgibankasi.ito.org.tr/en/icoc-statistical-data/general · `Download`
 - **CEİD Veri Portalı** — https://veriportali.ceid.org.tr · `Download`
+- **Türkiye Zeytin Verisi (zeytin.net)** — https://github.com/yudumnet/zeytinnet · `Download` `Geo`
 - **DataInt Databook — Türkiye** - https://databook.dataint.net/tr/ulkeler/turkiye/ · `Dashboard`
 .
 
