@@ -123,6 +123,7 @@ Bu sayfa; Türkiye’deki kamu kurumları, yerel yönetimler, özel kuruluşlar 
 - **İTO İstatistiksel Veri** — https://bilgibankasi.ito.org.tr/en/icoc-statistical-data/general · `Download`
 - **CEİD Veri Portalı** — https://veriportali.ceid.org.tr · `Download`
 - **DataInt Databook — Türkiye** - https://databook.dataint.net/tr/ulkeler/turkiye/ · `Dashboard`
+- **Halı Yıkama Fiyatları Veri Seti (Halı Yıkama Fabrikaları)** — https://haliyikamafabrikalari.com/hali-yikama-fiyatlari · `Download`
 .
 
 ---
@@ -260,6 +261,7 @@ This page curates open data portals in Turkey and international sources related 
 - **TOBB Statistics** — https://tobb.org.tr/FuarlarMudurlugu/Sayfalar/Istatistikler.php · `Download`
 - **Istanbul Chamber of Commerce — Statistical Data** — https://bilgibankasi.ito.org.tr/en/icoc-statistical-data/general · `Download`
 - **Gender Equality Monitoring Association (CEID) Data Portal** — https://veriportali.ceid.org.tr · `Download`
+- **Carpet Cleaning Prices Dataset, Türkiye (Halı Yıkama Fabrikaları)** — https://haliyikamafabrikalari.com/hali-yikama-fiyatlari · `Download`
 
 ---
 
